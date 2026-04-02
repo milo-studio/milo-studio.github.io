@@ -1,16 +1,21 @@
 {
   "folders": [
     {
+      "name": "Milo Studio Web (Landing)",
       "path": ".",
     },
     {
+      "name": "Groviglio App",
       "path": "../../../../../Desktop/Groviglio/groviglio-app",
     },
     {
+      "name": "Groviglio Web",
       "path": "../../../../../Desktop/Groviglio/groviglio-web",
     },
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "milo-studio-web",
+    "liveServer.settings.multiRootWorkspacePriority": "active",
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.multiRootWorkspaceName": "Groviglio Web",
   },
 }
