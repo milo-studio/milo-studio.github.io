@@ -16,6 +16,6 @@
   "settings": {
     "liveServer.settings.multiRootWorkspacePriority": "active",
     "liveServer.settings.port": 5500,
-    "liveServer.settings.multiRootWorkspaceName": "Groviglio Web",
+    "liveServer.settings.multiRootWorkspaceName": "Milo Studio Web (Landing)",
   },
 }
