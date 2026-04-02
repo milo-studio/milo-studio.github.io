@@ -1,14 +1,16 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../../../../../Desktop/Groviglio/groviglio-app"
-		},
-		{
-			"path": "../../../../../Desktop/Groviglio/groviglio-web"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": ".",
+    },
+    {
+      "path": "../../../../../Desktop/Groviglio/groviglio-app",
+    },
+    {
+      "path": "../../../../../Desktop/Groviglio/groviglio-web",
+    },
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "milo-studio-web",
+  },
 }
